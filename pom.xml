@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.college.demo</groupId>
 	<artifactId>springboot-springdatajdbc-mysql-demo</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2</version>
 	<name>springboot-springdatajdbc-mysql-demo</name>
 	<description>Demo project for Spring Boot using Spring Data JDBC and MYSQL database</description>
 	<properties>
